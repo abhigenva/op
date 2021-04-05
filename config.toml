@@ -1,4 +1,4 @@
-baseURL = "https://github.com/abhigenva/op"
+baseURL = "https://laughing-stonebraker-5ba1f6.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
