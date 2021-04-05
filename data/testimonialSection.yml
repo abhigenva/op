@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People are Saying About Me?
+
+testimonial:
+  - name: Prakhar Gehlot
+    comment: The services rendered by Abhishek are great and I had a very good time discussing my project with him. He understands the requirements very carefully and delivers the project on time.
+    time: Aug 10, 2020
+    star: 5
+  - name: Ayush Jaiman
+    comment: I was excited to work with him and get a professional web design for my event management company and I am very much thankful to him for his services, he has done a great job for me.
+    time: Aug 16, 2020
+    star: 5
+  - name: Hari Singh
+    comment: I was looking for a good UX design person from a long time and when I came across Abhishek's portfolio, I was very much sure he will be able to meet my expectations and he did that very well.
+    time: Sep 08, 2020
+    star: 5
+  - name: Ahmad Hasan
+    comment: I will recommend him to every person in my network to render his services. He is an amazing person and I have come across only a handful number of such great developers in my life.
+    time: Oct 04, 2020
+    star: 5

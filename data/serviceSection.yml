@@ -1,0 +1,45 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  “It takes months to find a customer and seconds to lose one” - Vince Lombardi
+service:
+  - content: >
+      #### UI/UX Design 
+
+      Using popular tools to the likes of Figma, Rive, VisBug etc and
+      open source tools to create an immersive experience for the user.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      Frameworks in our stack include React, Redux, Node.js, Express.js, 
+      Firebase, etc. to cater to web development needs. 
+    image: images/service/web.svg
+  - content: >
+      #### Mobile Development 
+
+      React Native for cross-platform along with Swift and Kotlin for 
+      native development. Electron for desktop GUI applications.
+    image: images/service/creative.svg
+  - content: >
+      #### Blockchain Development
+
+      Love for decentralized applications and DAOs. 
+      Solidity for writing smart contracts within EVM.
+    image: images/service/branding.svg
+  - content: >
+      #### Creative Design
+
+      Building visionary concepts for web and/or mobile with advanced 
+      design idea implementation in a perspective view similar to 3D
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Branding
+
+      From brand logo designing catering the vision across the audience 
+      to marketing strategy development to prosper that vision
+
+    image: images/service/web.svg

@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: HTML5, CSS3, Javascript
+    percent: 87
+  - title: React, React Native, Node.js
+    percent: 82
+  - title: Solidity, Express.js
+    percent: 85

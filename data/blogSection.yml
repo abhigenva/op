@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Article
+
+  Content is anything that adds value to the reader's life.
+
+buttonTarget: blog

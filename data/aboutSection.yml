@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  A humble person with a strong will to shake the world and 
+  also to get lucky along the way.
+content: >
+  ### I design and build ultimate things.
+
+  I love to work in User Experience & User Interface designing and development. 
+  The passion to solve design problems and find easy and better solutions to solve them drives me. 
+  I always try my best to make a good user interface with the best user experience possible.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
