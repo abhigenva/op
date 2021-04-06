@@ -90,6 +90,6 @@ icon = "fa-pinterest-square"
 url = "https://www.pinterest.com/"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
+icon = "fa-twitter-circle"
 url = "https://twitter.com/"
 weight = 4
