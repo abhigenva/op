@@ -99,7 +99,7 @@ url = "https://www.youtube.com/channel/UCk5EMxJwT0mVRwn_jgvCj5A"
 weight = 5
 [[params.social]]
 icon = "fa-twitter"
-url = "https://www.linkedin.com/"
+url = "https://twitter.com/AbhishekGenva"
 weight = 6
 [[params.social]]
 icon = "fa-whatsapp"
