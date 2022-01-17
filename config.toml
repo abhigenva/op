@@ -1,4 +1,4 @@
-baseURL = "https://laughing-stonebraker-5ba1f6.netlify.app/"
+baseURL = "https://abhigenva.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -58,14 +58,14 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Genva, Inc. © 2021"
+copyright = "Genva, Inc. © 2022"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mdoyoopv"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "412 Mansarovar Plaza, Jaipur, Rajasthan, India"
+address = "81/119 Chikitsalay Marg, Mansarovar, Jaipur, Rajasthan, India"
 email = "abhi.genva@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(91) 998 709 4775"
@@ -78,18 +78,30 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fa-facebook"
+url = "https://www.facebook.com/AbhiGenva"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fa-linkedin"
+url = "https://www.linkedin.com/company/genva-inc/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-github"
+url = "https://github.com/Genva-Inc"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-circle"
-url = "https://twitter.com/"
+icon = "fa-medium"
+url = "https://medium.com/@abhi.genva"
 weight = 4
+[[params.social]]
+icon = "fa-youtube"
+url = "https://www.youtube.com/channel/UCk5EMxJwT0mVRwn_jgvCj5A"
+weight = 5
+[[params.social]]
+icon = "fa-twitter"
+url = "https://www.linkedin.com/"
+weight = 6
+[[params.social]]
+icon = "fa-whatsapp"
+url = "https://wa.me/8824137574/"
+weight = 7

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Genva</title>
+    <link>https://abhigenva.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Genva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2020 18:19:35 +0600</lastBuildDate><atom:link href="https://abhigenva.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POS System</title>
+      <link>https://abhigenva.github.io/portfolio/recipe-app-ux-study/</link>
+      <pubDate>Thu, 17 Sep 2020 18:19:35 +0600</pubDate>
+      
+      <guid>https://abhigenva.github.io/portfolio/recipe-app-ux-study/</guid>
+      <description>There are a ton of payment processors and third party applications that does the same but still the need for better point of sale systems is growing that caters to the needs of businesses specifically by keeping them at center and managing their transactions along with the taxes of the nation. The pricing of the products is applied automatically just by scanning the barcode and the product is entered into the invoice for the customer.</description>
+    </item>
+    
+    <item>
+      <title>UX for Agriculture App</title>
+      <link>https://abhigenva.github.io/portfolio/ux-case-study-for-agriculture-app/</link>
+      <pubDate>Sun, 23 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://abhigenva.github.io/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <description>Restaurant industry is competitive and showcasing ourself separate from the competition is a good and effective way to build an audience and a clientele. Organic farming is growing and the demand among the customers is also growing and having an organic farm restaurant is unique and drawing attention in the nearby area. Getting press is also certainly much easy as compared to other restaurants. This is what separates the client from the rest of the competition.</description>
+    </item>
+    
+    <item>
+      <title>Event App</title>
+      <link>https://abhigenva.github.io/portfolio/event-app-case-study/</link>
+      <pubDate>Sun, 16 Aug 2020 18:07:16 +0600</pubDate>
+      
+      <guid>https://abhigenva.github.io/portfolio/event-app-case-study/</guid>
+      <description>Event management is a competitive space with users looking for a professional and good service in this domain. Helping the client to project himself as a pioneer in this domain with a professional looking web design and also doing a marketing session with him to prosper his brand and devising a clear communication channel to effectively market his services. Design was a major concern for the client to make him look more professional in his work and to attract more customers for his business.</description>
+    </item>
+    
+    <item>
+      <title>Dating App</title>
+      <link>https://abhigenva.github.io/portfolio/case-study-one/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://abhigenva.github.io/portfolio/case-study-one/</guid>
+      <description>With the advent of dating apps in the market the ongoing demand of better products and services is ever-growing in this domain. Creating a community centered across dating and growing that community to cater the needs of the users of the service. The ongoing trend of users hopping across the dating apps is a clear indicator of a demand of a better service in this domain. Having a clear vision also helps in promoting the company&amp;rsquo;s goal.</description>
+    </item>
+    
+  </channel>
+</rss>
