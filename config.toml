@@ -67,7 +67,7 @@ logo = "images/site-navigation/logo.png"
 [params.address]
 address = "Mansarovar, Jaipur, Rajasthan, India"
 email = "abhi.genva@gmail.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+openingHours = "Open from 10am to 6pm (closes at 5pm Sunday)"
 phone = "+(91) 998 709 4775"
 
 [params.map]
