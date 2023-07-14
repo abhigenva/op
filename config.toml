@@ -58,7 +58,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Genva, Inc. © 2024"
+copyright = "Genva, Inc. © 2023"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mdoyoopv"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
@@ -67,7 +67,7 @@ logo = "images/site-navigation/logo.png"
 [params.address]
 address = "Mansarovar, Jaipur, Rajasthan, India"
 email = "abhi.genva@gmail.com"
-openingHours = "Open from 10am to 7pm (closes at 5pm Sunday)"
+openingHours = "Open from 10am to 6pm (closes at 5pm Sunday)"
 phone = "+(91) 998 709 4775"
 
 [params.map]
